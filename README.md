@@ -1,1 +1,1 @@
-This problem is implemented using java.  Please download the project folder and run it in an ide.
+This problem is implemented using java.  Please download the java file in the src folder and run it in an ide.
